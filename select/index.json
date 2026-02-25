@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋しくなったら手を叩こう（feat. 花鏡紅璃）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-25T05:46:51.204239Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋しくなったら手を叩こう (feat. 花鏡紅璃)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_恋しくなったら手を叩こう_(feat._花鏡紅璃)_MIMI.txt"
+    }
+  ]
+}
